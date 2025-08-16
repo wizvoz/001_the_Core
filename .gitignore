@@ -1,0 +1,7 @@
+# --- Directories for local use only ---
+_localDocs/
+_recycle/
+
+# --- Python specific ---
+__pycache__/
+*.pyc
