@@ -5,3 +5,6 @@ _recycle/
 # --- Python specific ---
 __pycache__/
 *.pyc
+
+# Sphinx build output
+docs_html/
